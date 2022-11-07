@@ -127,6 +127,21 @@ color: #FFFFFF;
 margin-left: 90%;
 color: white;
 margin-top: -550px;
+	
+a:link {
+color: #FFFFFF;
+
+}
+a:visited {
+color: #00FFD3;
+
+}
+a:hover {
+/*color:#F68EC1;8?
+/*text-shadow: 5px 5px #00FFD3;*/
+font-style: italic;
+font-weight: 100;
+
 
 
 
