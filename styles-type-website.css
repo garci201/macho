@@ -127,7 +127,10 @@ color: #FFFFFF;
 margin-left: 90%;
 color: white;
 margin-top: -550px;
-	
+
+
+
+}
 a:link {
 color: #FFFFFF;
 
@@ -142,11 +145,7 @@ a:hover {
 font-style: italic;
 font-weight: 100;
 
-
-
-
 }
-
 .foundry {
 width: 9.7373in;
 /* height: 5.8658in; */
